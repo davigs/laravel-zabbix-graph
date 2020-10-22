@@ -4,13 +4,12 @@
     "keywords": [
         "laravel-zabbix-graph"
     ],
-    "homepage": "https://github.com/casperboone/laravel-zabbix-graph",
+    "homepage": "https://github.com/davigs/laravel-zabbix-graph",
     "license": "MIT",
     "authors": [
         {
-            "name": "Casper Boone",
-            "email": "mail@casperboone.nl",
-            "homepage": "https://casperboone.nl",
+            "name": "Davi Gomes",
+            "email": "davigomess@gmail.com",
             "role": "Developer"
         }
     ],
