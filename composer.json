@@ -1,5 +1,5 @@
 {
-    "name": "casperboone/laravel-zabbix-graph",
+    "name": "davigs/laravel-zabbix-graph",
     "description": "Get nice looking graphs of your Zabbix devices in Laravel.",
     "keywords": [
         "laravel-zabbix-graph"
@@ -17,7 +17,7 @@
     "require": {
         "php": "^7.0",
         "casperboone/zabbix-graph": "^1.0",
-        "illuminate/support": "~5.1|~6.0"
+        "illuminate/support": "~5.1|~6.0|~8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^3.4.6",
